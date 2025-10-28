@@ -20,7 +20,7 @@
 - 🔧 Me gusta comprender cómo funcionan las cosas “por dentro”: desde los algoritmos hasta la arquitectura de software.  
 - 🚀 Estoy en constante aprendizaje, especialmente en temas como **bases de datos**, **API REST**, y **optimización de código**.  
 - 🔍 Disfruto investigar nuevas herramientas y compartir lo que aprendo.  
-- 🌐 Mi página web personal: [https://mi_pagina.com](https://aveatrusscode.github.io/My_portfolio/)
+- 🌐 Mi página web personal: [AQUI](https://aveatrusscode.github.io/My_portfolio/)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
