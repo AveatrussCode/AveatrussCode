@@ -9,6 +9,10 @@
 
 ## **About me**
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
 <br>
 
 - 🔧 Me gusta comprender cómo funcionan las cosas “por dentro”: desde los algoritmos hasta la arquitectura de software.  
